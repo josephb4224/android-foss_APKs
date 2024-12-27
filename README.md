@@ -3,7 +3,9 @@
 [![CI](https://github.com/offa/android-foss/workflows/ci/badge.svg)](https://github.com/offa/android-foss/actions)
 [![License](https://img.shields.io/badge/license-GPLv3-yellow.svg)](LICENSE)
 
-A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** – saving *Freedom* and *Privacy*.
+
+• Josephb4224 - [Wiki Page:](https://github.com/josephb4224/android-foss_APKs.wiki) For More information on Repisitory.  
+• A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** – saving *Freedom* and *Privacy*.
 
 ## Table of Contents
 
